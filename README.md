@@ -4,7 +4,7 @@
 **Project type:** Student project<br>
 **Demo:** https://www.tinkercad.com/things/dSr2GhZFYBn?sharecode=5hfih45fbzp5P-9mNMCAmtgKR6SbJixpYPcqXDHDSYg
 
-![Image](https://github.com/lostbyt/Embedded_system_HVAC/blob/main/system.PNG)
+![Image](https://github.com/lostbyt/Embedded_system_HVAC/blob/main/images/system.PNG)
 
 ### Description:
 The goal of this project was to implements a system using two TMP36 temperature sensors,
