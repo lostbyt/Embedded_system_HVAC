@@ -2,9 +2,9 @@
 
 **Developer:** Emmanuel Moulun<br>
 **Project type:** Student project<br>
-**Demo:** https://www.tinkercad.com/things/kGRFB8gZKBh?sharecode=yOR_8oL2bx_vJ1KffzxQbN-uIS7YKyPal8njOvRnI1A
+**Demo:** https://www.tinkercad.com/things/dSr2GhZFYBn?sharecode=5hfih45fbzp5P-9mNMCAmtgKR6SbJixpYPcqXDHDSYg
 
-![Image](https://github.com/lostbyt/Embeded_system_humidity_control/blob/main/system.PNG)
+![Image](https://github.com/lostbyt/Embedded_system_HVAC/blob/main/system.PNG)
 
 ### Description:
 The goal of this project was to implements a system using two TMP36 temperature sensors,
